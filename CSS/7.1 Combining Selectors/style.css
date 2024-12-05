@@ -1,0 +1,19 @@
+/* Write your code here: */
+ h1,h2{
+    color: blueviolet;
+ }
+ .done{
+    color:red;
+ }
+ .box ul li{
+    color:blue;
+ }
+ .box ul .done {
+   color:green;
+ }
+ ul .done {
+    color:black;
+ }
+ ul p.done{
+    font-size: 0.5rem;
+ }
